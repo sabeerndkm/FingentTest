@@ -5,7 +5,7 @@ SABEER A M
 Steps for use
 1. Clone the code
 2. Start WAMP server.
-3. In the folder SQL file is attached as 'employee_db.sql'
+3. In folder SQL file is attached as 'employee_db.sql'
 4. Create db named 'employee_db'.
 5. Import the sql file to the database
 6. Put whole the folder inside of 'www'.
