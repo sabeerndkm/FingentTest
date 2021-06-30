@@ -29,7 +29,7 @@
                 <h4 class="text-danger">Note:</h4>
                 <ul class="text-danger">
                     <li> Supported Formats : csv, xls, xlsx</li>
-                    <li> Before fill or enter details to Excel sheet, Set the Category ID column to text format.</li>
+                    <li> Before fill or enter details to Excel sheet, Set the Joining Date and Employee Date of Birth column to text format.</li>
                     <li>File should contain minimum of 5 columns and maximum of 20 rows.</li>
                     <li>A sample sheet is attached here. Please click on<a target="_blank" href="<?php echo site_url('employee/sample_sheet'); ?>"> Download <i class="fa fa-download"></i></a> and use this Excel sheet to fill the employee details.</li>
                 </ul>
